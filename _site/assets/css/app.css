@@ -58,10 +58,18 @@ h4{
 
 nav ul li{
 	line-height: 100px;
+	text-decoration: none;
 }
+
+a{
+	color:	#82c0d8;
+}
+
 
 a:hover{
 	opacity: 0.5;
+	color:	#82c0d8;
+
 }
 
 a h1:hover{
